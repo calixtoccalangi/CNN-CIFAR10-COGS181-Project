@@ -9,6 +9,11 @@ The first test will look at a standard CNN architecture I will build versus one 
 The next four tests will go back to my original CNN I used, and implement various changes. They include:
 
 1.) Varying layers
+
 2.) Different optimization methods (Adam v. stochastic gradient descent)
+
 3.) Different pooling functions (average pooling, max pooling, stochastic pooling)
+
 4.) Different activation functions (ReLu, Sigmoid)
+
+My project involves the use of Python and several of its libraries (PyTorch, NumPy, Matplotlib). 
